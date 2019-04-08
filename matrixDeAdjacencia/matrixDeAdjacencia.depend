@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1554730298 source:c:\programas\matrixdeadjacencia\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<list>
+	<vector>
+	"graph.h"
+
+1553027937 source:c:\programas\matrixdeadjacencia\grafos.c
+	<stdio.h>
+
+1554730981 source:c:\programas\matrixdeadjacencia\graph.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cstdlib>
+	<stdio.h>
+	<list>
+	<fstream>
+	<string>
+	"graph.h"
+
+1554729778 c:\programas\matrixdeadjacencia\graph.h
+
